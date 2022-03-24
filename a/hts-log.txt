@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 23 Mar 2022 21:21:45 at https://assessoriaprimemidia.site/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://assessoriaprimemidia.site/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://assessoriaprimemidia.site/ -O1 "C:\Users\User\Desktop\asdas\a" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://assessoriaprimemidia.site/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:21:59	Warning: 	Moved Permanently for https://assessoriaprimemidia.site/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='2.3' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0
+21:21:59	Warning: 	File has moved from https://assessoriaprimemidia.site/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='2.3' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0 to https://assessoriaprimemidia.site/%22data:image/svg+xml,%3Csvg%20xmlns=http:/www.w3.org/2000/svg%20preserveAspectRatio=none%20overflow=visible%20height=100%%20viewBox=0%200%2020%2016%20fill=none%20stroke=black%20stroke-width=2.3%20stroke-linecap=square%20stroke-miterlimit=10%3E%3Cg%20transform=translate(-12.000000,%200
+21:22:00	Error: 	"Not Found" (404) at link https://assessoriaprimemidia.site/%22data:image/svg+xml,%3Csvg xmlns=http:/www.w3.org/2000/svg preserveAspectRatio=none overflow=visible height=100% viewBox=0 0 20 16 fill=none stroke=black stroke-width=2.3 stroke-linecap=square stroke-miterlimit=10%3E%3Cg transform=translate(-12.000000, 0 (from https://assessoriaprimemidia.site/"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='2.3' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 39 links scanned, 36 files written (4570890 bytes overall) [2023931 bytes received at 134928 bytes/sec], 3747888 bytes transferred using HTTP compression in 26 files, ratio 30%, 5.7 requests per connection
+(1 errors, 2 warnings, 0 messages)
