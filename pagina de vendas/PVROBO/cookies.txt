@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-roboinstarenda.site	TRUE	/	FALSE	1999999999	_lscache_vary	a47849d2e37492e48c1590c91accabff
-
